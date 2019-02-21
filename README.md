@@ -1,6 +1,8 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 # Table of Contents
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FtheBashShell%2Fprofessional-programming.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FtheBashShell%2Fprofessional-programming?ref=badge_shield)
+
 
 - [Professional Programming](#professional-programming)
   - [Must read books](#must-read-books)
@@ -496,3 +498,7 @@ Rob Pike, [Go at Google: Language Design in the Service of Software Engineering]
 * [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 * [GRASP](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
 * [Make it run, make it right, make it fast](http://c2.com/cgi/wiki?MakeItWorkMakeItRightMakeItFast)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FtheBashShell%2Fprofessional-programming.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FtheBashShell%2Fprofessional-programming?ref=badge_large)
